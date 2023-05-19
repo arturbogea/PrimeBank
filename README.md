@@ -3,10 +3,13 @@ O objetivo do aplicativo é simular um aplicativo de um banco, onde será possí
 
 Para desenvolvê-lo, utilizei várias ferramentas e tecnologias, como
 • Kotlin 
+
 •Activity para hospedagem de telas
+
 •ViewGroup com:
  - ConstraintLayout
 - LinearLayout
+- 
 •Components de UI
  - TextView
  - EditText
@@ -14,6 +17,7 @@ Para desenvolvê-lo, utilizei várias ferramentas e tecnologias, como
 - ProgressBar
 - Toolbar
  - Button
+ 
 •ViewBinding para recuperar components de UI
 
 
